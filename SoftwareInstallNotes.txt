@@ -1,0 +1,11 @@
+My sql Workbench install
+
+https://www.youtube.com/watch?v=hiS_mWZmmI0
+
+connect MySQL with spring boot project
+
+https://www.youtube.com/watch?v=42Zy3du1VQQ&t=255s
+
+ push code direct folder into git repository
+
+https://www.youtube.com/watch?v=wUsAzk78mVI

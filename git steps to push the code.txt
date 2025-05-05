@@ -1,0 +1,25 @@
+git steps to push the code
+
+https://www.youtube.com/watch?v=wUsAzk78mVI
+
+select folder git bash here
+
+1. git init
+
+2. git add -A
+
+3. git commit -m "Employee Management Operations"
+
+4. git remote add origin https://github.com/relangilakshman/EmpManagementOperations.git
+
+5. git push origin master
+
+http://localhost:8080/api/getEmpList
+
+{
+    "id": 5,
+    "empName": "Josh",
+    "empAge": 18,
+    "empSalary": 50000,
+    "depName": "Architect"
+}
